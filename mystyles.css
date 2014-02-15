@@ -1,0 +1,56 @@
+body {
+	font-family: helvetica, arial, sans-serif;
+	font-size: 90%;
+}
+
+li {
+	margin-bottom: 10px;
+}
+
+.errors {
+	color: red;
+}
+
+table {
+	border: 3px solid black;
+	border-collapse: collapse;
+}
+
+th {
+	background-color: #FFFFE0;
+	border: 3px solid black;
+	padding: 5px;
+}
+
+td {
+	border: 1px solid black;
+	vertical-align: top;
+	padding: 5px;
+}
+
+tfoot {
+	font-weight: bold;
+	text-align: right;
+	background-color: #FFFFE0;
+	border: 3px solid black;
+}
+
+tfoot td {
+	border: 0;
+}
+
+.nowrap {
+	white-space: nowrap;
+}
+
+.right {
+	text-align: right;
+}
+
+.search table,
+.search td,
+.login table,
+.login td
+{
+	border: 0;
+}
