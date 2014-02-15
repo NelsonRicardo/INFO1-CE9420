@@ -1,4 +1,4 @@
-//========================================================================================
+//   ========================================================================================
 // Contains AJAX 2 methods:
 // ajaxRequest: Execute a full AJAX request/response communication
 // ajaxLoad:    Use ajaxRequest() in sync mode to load a url into an html element
